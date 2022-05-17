@@ -1,2 +1,0 @@
-export * from "https://deno.land/std@0.137.0/io/bufio.ts";
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImh0dHBzOi8vZGVuby5sYW5kL3gvZGVqc0AwLjEwLjMvdmVuZG9yL2h0dHBzL2Rlbm8ubGFuZC9zdGQvaW8vYnVmaW8udHMiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0ICogZnJvbSBcImh0dHBzOi8vZGVuby5sYW5kL3N0ZEAwLjEzNy4wL2lvL2J1ZmlvLnRzXCI7XG4iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6ImNBQWMsQ0FBMkMifQ==
