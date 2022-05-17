@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "etag": "\"29af8b7c6cb2e5b3fea63d616e93c687\"",
+    "date": "Fri, 06 May 2022 12:47:13 GMT",
+    "access-control-allow-origin": "*",
+    "content-type": "application/typescript; charset=utf-8",
+    "last-modified": "Thu, 28 Apr 2022 18:33:26 GMT",
+    "x-amz-version-id": "kgrK4CcmVB6lDVwCr34YXvgWgU7WnpRL",
+    "content-length": "22400",
+    "x-amz-id-2": "ORfx/+pIdBFbIX6A6bzZqqnNKJthhBwpLgPcKjsO7CQtJ1YBMQzhkNd+LCqKiEnhN3mKbz7XVu8=",
+    "x-amz-request-id": "8AXTMR7ACS267G86",
+    "server": "deploy/us-central1-b",
+    "cache-control": "public, max-age=31536000, immutable",
+    "vary": "Accept-Encoding"
+  },
+  "url": "https://deno.land/std@0.137.0/testing/asserts.ts"
+}

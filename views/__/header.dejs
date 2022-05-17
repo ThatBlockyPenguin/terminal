@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title><%= data.title ? data.title : data.thisName %></title>
+    <link rel="preload" href="/assets/css/main.css" as="style">
+
+    <% if(!data.doesNotHaveOwnCss) { %>
+      <link rel="preload" href="/assets/css/<%= data.thisName %>.css" as="style">
+      <link rel="stylesheet" href="/assets/css/<%= data.thisName %>.css">
+    <% } %>
+
+    <% if(data.js) { %>
+      <% for(let js of data.js) { %>
+        <% let isModule = false; %>
+
+        <% if(js.startsWith('@')) { %>
+          <% js = js.substring(1); %>
+          <% isModule = true; %>
+        <% } %>
+
+        <% if(!js.endsWith('.js')) { %>
+          <% js = `/assets/js/${js}.js` %>
+        <% } %>
+
+        <% if(isModule) { %>
+          <script defer type="module" src="<%= js %>"></script>
+        <% }else { %>
+          <script defer src="<%= js %>"></script>
+        <% } %>
+      <% } %>
+    <% } %>
+
+    <link rel="stylesheet" href="/assets/css/main.css">
+  </head>
+  <body>

@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-amz-request-id": "NP0QKRNQH8Z1P03M",
+    "last-modified": "Thu, 13 May 2021 04:31:53 GMT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-type": "application/typescript; charset=utf-8",
+    "vary": "Accept-Encoding",
+    "content-length": "4295",
+    "access-control-allow-origin": "*",
+    "etag": "\"635169087dadf55d8f7a8d3be8935f62\"",
+    "x-amz-version-id": "GL9qLB94C__zl3d3N_.sQA0OEDOHXlsq",
+    "server": "deploy/us-east1-c",
+    "date": "Sun, 08 May 2022 11:49:48 GMT",
+    "x-amz-id-2": "mexTfKejFpnaaCyK2chQTxrG3JqSn81YSNy0I2Cl0CEZkVl3ayw0qlmpcRjAHNdqItDOn/pVmg8="
+  },
+  "url": "https://deno.land/x/sono@v1.1/src/server.ts"
+}

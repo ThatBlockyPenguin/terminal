@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-amz-request-id": "8AXPKQCFZR50FDF4",
+    "access-control-allow-origin": "*",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "content-type": "application/javascript",
+    "x-amz-version-id": "null",
+    "vary": "Accept-Encoding",
+    "x-amz-id-2": "PHWDrqhO4j63hAL4jJe9nsgXRJDFPGj33ScxrgQNyDBgzwd+qgu9UzkndG+xNa+p3SGt+WrscmI=",
+    "server": "deploy/us-central1-b",
+    "etag": "W/\"39ee1473a8a2c976ccaeaa8eaf915124\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Fri, 06 May 2022 12:47:13 GMT"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/isSymbol.js"
+}

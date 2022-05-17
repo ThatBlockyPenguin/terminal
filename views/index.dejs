@@ -1,0 +1,4 @@
+<%- await include('./views/__/header.dejs', { data }) %>
+  <div id="term"></div>
+  <input id="input" type="text">
+<%- await include('./views/__/footer.dejs', { data }) %>

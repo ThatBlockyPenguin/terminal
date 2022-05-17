@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-request-id": "NP0TJBQ936KH13JZ",
+    "x-amz-version-id": "G0U1gk0AGwDJxs6YKNeypo9IAE0uqsEG",
+    "access-control-allow-origin": "*",
+    "content-type": "application/typescript; charset=utf-8",
+    "last-modified": "Tue, 11 May 2021 20:42:03 GMT",
+    "content-length": "4628",
+    "vary": "Accept-Encoding",
+    "x-amz-id-2": "2NotlkweS6rtI5FcZ2KS17xYHqsZ+GU0k60JdqCXaTd1xIaiHe/zHiiq1pubFUCGy9PvUw9GtIQ=",
+    "etag": "\"00abb6303a89ab532978c0674379abe6\"",
+    "server": "deploy/us-east1-c",
+    "date": "Sun, 08 May 2022 11:49:48 GMT"
+  },
+  "url": "https://deno.land/std@0.96.0/textproto/mod.ts"
+}

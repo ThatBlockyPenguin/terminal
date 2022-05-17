@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-amz-version-id": "TunXhMYpB.GJeueEqi70nHkSsDtPk8cZ",
+    "x-amz-request-id": "NP0H6FWRAECQZEKW",
+    "vary": "Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "date": "Sun, 08 May 2022 11:49:48 GMT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "etag": "W/\"f0476a3e1a30037addf582bd57b77153\"",
+    "last-modified": "Thu, 13 May 2021 04:31:53 GMT",
+    "content-type": "application/javascript",
+    "server": "deploy/us-east1-c",
+    "x-amz-id-2": "cUXjaa63YL6EuHypIaPmfJBuf10djAwOK+a5up9mumMQeRJMG/JaQB5t95O6LD+CfBGCDt7yYXc="
+  },
+  "url": "https://deno.land/x/sono@v1.1/src/sonoClient.js"
+}

@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-type": "application/typescript; charset=utf-8",
+    "etag": "\"43722fbaa70c6e687c6d5cdcad107863\"",
+    "date": "Fri, 06 May 2022 12:47:12 GMT",
+    "vary": "Accept-Encoding",
+    "x-amz-request-id": "VDCBT6H8QP71BVFB",
+    "content-length": "6055",
+    "access-control-allow-origin": "*",
+    "x-amz-id-2": "UVf4FNzW5mgpaKjXNR64GsN7F5mlrQCS8YVQRyPjGmmdzUcrg3Msz5H1iHOcysAhtND9sFd17uQ=",
+    "last-modified": "Wed, 23 Jun 2021 15:47:55 GMT",
+    "x-amz-version-id": "LS9v0OLfQxI4wYLlf6WwTui2lPCClTGL",
+    "server": "deploy/us-central1-b"
+  },
+  "url": "https://deno.land/x/abc@v1.3.3/http_exception.ts"
+}

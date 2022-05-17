@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "server": "deploy/us-central1-b",
+    "content-length": "1140",
+    "last-modified": "Wed, 23 Jun 2021 15:47:55 GMT",
+    "x-amz-id-2": "ugkSQVR4YM3bQBn78hOHODKjJlgquGfJsRdWaT+JB2bvc7+KOn4jw4n0eZp46Xh+/4ntq+ztZ2k=",
+    "x-amz-request-id": "VDC3CJR5X4TVWAJN",
+    "content-type": "application/typescript; charset=utf-8",
+    "cache-control": "public, max-age=31536000, immutable",
+    "etag": "\"6ed089e545e5b1e62ae9541501960b7e\"",
+    "date": "Fri, 06 May 2022 12:47:12 GMT",
+    "x-amz-version-id": "dev192216YCLCWcp4o.H_NoQyd1LDkN6",
+    "vary": "Accept-Encoding"
+  },
+  "url": "https://deno.land/x/abc@v1.3.3/router.ts"
+}

@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-amz-id-2": "s5v3Nu+8U3CA89/R+eN/JJjRS76QJk7E+woOxytA63trj4MLM5HnoOnvW+V4lofw1nMjGD6bS/k=",
+    "content-type": "application/typescript; charset=utf-8",
+    "last-modified": "Thu, 28 Apr 2022 18:33:24 GMT",
+    "x-amz-request-id": "VDC7D76ZG4CWP1KC",
+    "x-amz-version-id": "MewL7G48peDjzwnu0MhUcrpRcVw2qNwa",
+    "date": "Fri, 06 May 2022 12:47:12 GMT",
+    "access-control-allow-origin": "*",
+    "etag": "\"fc045f1e735399e03426dd4268c79b64\"",
+    "content-length": "1381",
+    "server": "deploy/us-central1-b",
+    "vary": "Accept-Encoding",
+    "cache-control": "public, max-age=31536000, immutable"
+  },
+  "url": "https://deno.land/std@0.137.0/io/bufio.ts"
+}

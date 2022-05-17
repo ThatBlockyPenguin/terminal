@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-amz-request-id": "8AXRX11J22B9BRCC",
+    "x-amz-version-id": "btVRUCgFj567VxuVKzBPuBytj0dyW8vk",
+    "access-control-allow-origin": "*",
+    "etag": "\"673a460c35a351e7bab20ce737884ab8\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-id-2": "bxv2auu4R0XZLUo7Kp/482Qoqn+SFKPs6hIT8HKx99BDiYWOf2/2bKfHNzVOt0rYrc3A6yfi7Q4=",
+    "content-type": "application/typescript; charset=utf-8",
+    "vary": "Accept-Encoding",
+    "content-length": "16067",
+    "server": "deploy/us-central1-b",
+    "date": "Fri, 06 May 2022 12:47:13 GMT",
+    "last-modified": "Tue, 15 Jun 2021 20:18:57 GMT"
+  },
+  "url": "https://deno.land/std@0.99.0/datetime/formatter.ts"
+}

@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "date": "Fri, 06 May 2022 12:20:53 GMT",
+    "last-modified": "Wed, 20 Jan 2021 05:26:03 GMT",
+    "x-amz-id-2": "x9E8EM9JfCcOvfqYsZ7X1lt99fkpbd60l2G6/ljMkllmpW3SCSoAZz8zDbvPcbeJu9nLbUXrWDA=",
+    "access-control-allow-origin": "*",
+    "vary": "Accept-Encoding",
+    "etag": "\"1104a87e034490286049c1cb711ec52d\"",
+    "content-length": "2523",
+    "x-amz-request-id": "TAW853BQZKQX2YAM",
+    "server": "deploy/us-central1-b",
+    "content-type": "application/typescript; charset=utf-8",
+    "x-amz-version-id": "zK5Gol8pjEA_idJPj2Gbsl.guNwKSI1H",
+    "cache-control": "public, max-age=31536000, immutable"
+  },
+  "url": "https://deno.land/std@0.84.0/io/ioutil.ts"
+}

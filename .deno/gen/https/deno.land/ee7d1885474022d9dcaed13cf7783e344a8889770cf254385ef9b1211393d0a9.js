@@ -1,0 +1,14 @@
+/**
+ * Client class creates each client with unique id, WebSocket, and the channel client is set to
+ */ export class Client {
+    socket;
+    id = 1000;
+    channel;
+    constructor(socket, lastClientId){
+        this.socket = socket;
+        this.id = lastClientId + 1;
+        console.log(this.id);
+        this.channel = 'home';
+    }
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImh0dHBzOi8vZGVuby5sYW5kL3gvc29ub0B2MS4xL3NyYy9jbGllbnQudHMiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgV2ViU29ja2V0IH0gZnJvbSBcIi4uL2RlcHMudHNcIjtcbi8qKlxuICogQ2xpZW50IGNsYXNzIGNyZWF0ZXMgZWFjaCBjbGllbnQgd2l0aCB1bmlxdWUgaWQsIFdlYlNvY2tldCwgYW5kIHRoZSBjaGFubmVsIGNsaWVudCBpcyBzZXQgdG9cbiAqL1xuZXhwb3J0IGNsYXNzIENsaWVudCB7XG4gIHB1YmxpYyBzb2NrZXQ6IFdlYlNvY2tldDtcbiAgcHVibGljIGlkID0gMTAwMDtcbiAgcHVibGljIGNoYW5uZWw6IHN0cmluZztcbiAgY29uc3RydWN0b3Ioc29ja2V0OiBXZWJTb2NrZXQsIGxhc3RDbGllbnRJZDogbnVtYmVyKXtcbiAgICB0aGlzLnNvY2tldCA9IHNvY2tldDtcbiAgICB0aGlzLmlkID0gbGFzdENsaWVudElkICsgMTtcbiAgICBjb25zb2xlLmxvZyh0aGlzLmlkKVxuICAgIHRoaXMuY2hhbm5lbCA9ICdob21lJztcbiAgfVxufSJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQSxFQUVHLEFBRkg7O0NBRUcsQUFGSCxFQUVHLENBQ0gsTUFBTSxPQUFPLE1BQU07SUFDVixNQUFNO0lBQ04sRUFBRSxHQUFHLElBQUk7SUFDVCxPQUFPO2dCQUNGLE1BQWlCLEVBQUUsWUFBb0IsQ0FBQyxDQUFDO1FBQ25ELElBQUksQ0FBQyxNQUFNLEdBQUcsTUFBTTtRQUNwQixJQUFJLENBQUMsRUFBRSxHQUFHLFlBQVksR0FBRyxDQUFDO1FBQzFCLE9BQU8sQ0FBQyxHQUFHLENBQUMsSUFBSSxDQUFDLEVBQUU7UUFDbkIsSUFBSSxDQUFDLE9BQU8sR0FBRyxDQUFNO0lBQ3ZCLENBQUMifQ==
